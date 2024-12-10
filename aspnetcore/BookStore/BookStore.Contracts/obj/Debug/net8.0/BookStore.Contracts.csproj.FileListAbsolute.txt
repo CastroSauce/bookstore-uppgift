@@ -1,0 +1,11 @@
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\bin\Debug\net8.0\BookStore.Contracts.deps.json
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\bin\Debug\net8.0\BookStore.Contracts.dll
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\bin\Debug\net8.0\BookStore.Contracts.pdb
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\obj\Debug\net8.0\BookStore.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\obj\Debug\net8.0\BookStore.Contracts.AssemblyInfoInputs.cache
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\obj\Debug\net8.0\BookStore.Contracts.AssemblyInfo.cs
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\obj\Debug\net8.0\BookStore.Contracts.csproj.CoreCompileInputs.cache
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\obj\Debug\net8.0\BookStore.Contracts.dll
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\obj\Debug\net8.0\refint\BookStore.Contracts.dll
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\obj\Debug\net8.0\BookStore.Contracts.pdb
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Contracts\obj\Debug\net8.0\ref\BookStore.Contracts.dll

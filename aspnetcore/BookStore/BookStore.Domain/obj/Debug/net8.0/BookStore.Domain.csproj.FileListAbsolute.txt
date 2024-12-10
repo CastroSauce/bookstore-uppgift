@@ -1,0 +1,15 @@
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.csproj.AssemblyReference.cache
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.AssemblyInfoInputs.cache
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.AssemblyInfo.cs
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.deps.json
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.dll
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\bin\Debug\net8.0\BookStore.Contracts.dll
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\bin\Debug\net8.0\BookStore.Contracts.pdb
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.csproj.CopyComplete
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.dll
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\refint\BookStore.Domain.dll
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.pdb
+C:\source\knowit_uppgift\aspnetcore\BookStore\BookStore.Domain\obj\Debug\net8.0\ref\BookStore.Domain.dll
